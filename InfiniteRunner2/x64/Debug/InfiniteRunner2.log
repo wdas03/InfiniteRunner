@@ -1,0 +1,36 @@
+﻿  main.cpp
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(40): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(143): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(154): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(155): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(157): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(158): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(171): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(172): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(194): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(224): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(238): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(239): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(240): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(254): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(255): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(257): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(258): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(292): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(313): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(375): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(379): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(108): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(117): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(125): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\documents\visual studio 2015\projects\infiniterunner2\infiniterunner2\main.cpp(132): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+  InfiniteRunner2.vcxproj -> C:\Users\iD Student\Documents\Visual Studio 2015\Projects\InfiniteRunner2\x64\Debug\InfiniteRunner2.exe
+  InfiniteRunner2.vcxproj -> C:\Users\iD Student\Documents\Visual Studio 2015\Projects\InfiniteRunner2\x64\Debug\InfiniteRunner2.pdb (Full PDB)
